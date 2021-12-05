@@ -1,0 +1,16 @@
+controle
+banana
+carro
+moto
+açucar
+cama
+calça
+computador
+ornitorrinco
+paralelepipedo
+teclado
+monitor
+copo
+fone
+nariz
+ouvido
